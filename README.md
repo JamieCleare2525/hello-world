@@ -1,2 +1,3 @@
 # hello-world
-First github learning basics
+First github learning 
+Still learning the basics.
